@@ -2,15 +2,21 @@
 
 A warm editor theme for [Zed](https://zed.dev) built on Anthropic's official Claude brand palette. Two variants: **Claude Light** and **Claude Dark**.
 
----
-
 ## Preview
 
 ### Claude Light
 
+<img width="2041" height="1326" alt="Screenshot 2026-05-10 at 09 40 35" src="https://github.com/user-attachments/assets/3ca43743-d180-4bdf-a3b0-8c1ffe9508ac" />
+
+</br>
+
 Off-white Pampas surfaces with dark warm text. Calm and readable in daylight.
 
 ### Claude Dark
+
+<img width="2030" height="1321" alt="Screenshot 2026-05-10 at 09 40 49" src="https://github.com/user-attachments/assets/a92792c0-b80b-4da6-8889-67a3d08fbe6a" />
+
+</br>
 
 Deep warm blacks with cream text and a terra cotta accent. Designed for long sessions in low light.
 
